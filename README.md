@@ -1,3 +1,5 @@
+## A sample project using Golang, Graphql and REST based API endpoints for learning and understanding.
+
 ### GoLang Naming Rules and Conventions
 
 #### File Name: snake_case
