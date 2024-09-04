@@ -55,11 +55,17 @@ func main() {
 	}
 	fmt.Println("Connected to the PostgreSQL database")
 
-	http.HandleFunc("/users", getUsers)
-	http.HandleFunc("/users/add", addUser)
-	http.HandleFunc("/users/update", updateUser)
-	http.HandleFunc("/users/delete", deleteUser)
+	/*
+	* REST API endpoint
+	 */
+	http.HandleFunc("/gods", getGods)
+	http.HandleFunc("/gods/add", addGod)
+	http.HandleFunc("/gods/update", updateGod)
+	http.HandleFunc("/gods/delete", deleteGod)
 
+	/*
+	* GRAPHQL endpoint
+	 */
 	h := handler.New(&handler.Config{
 		Schema:   &MainSchema,
 		Pretty:   true,
