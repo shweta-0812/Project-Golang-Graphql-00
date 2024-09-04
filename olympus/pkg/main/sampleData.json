@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Zeus",
+    "description": "God of thunder, King of Gods and Master of Olympus",
+    "otherNames": ["Anax", "Alastor", "Basileus", "Epoptes"]
+  },
+  {
+    "id": 2,
+    "name": "Poseidon",
+    "description": "God of the sea, earthquakes, and horses",
+    "otherNames": ["Earth-shaker", "Neptune", "Proteus"]
+  },
+  {
+    "id": 3,
+    "name": "Hades",
+    "description": "God of the underworld and the dead",
+    "otherNames": ["Pluto", "Dis", "Aides"]
+  },
+  {
+    "id": 4,
+    "name": "Apollo",
+    "description": "Goddess of wisdom, war, and strategy",
+    "otherNames": ["Phoebus", "Paean", "Delian"]
+  },
+  {
+    "id": 5,
+    "name": "Athena",
+    "description": "A god that can conceal itself by changing its appearance",
+    "otherNames": ["Pallas", "Parthenos", "Minerva"]
+  },
+  {
+    "id": 6,
+    "name": "Ares",
+    "description": "God of war and combat",
+    "otherNames": ["Mars", "Enyalius", "Thersites"]
+  },
+  {
+    "id": 7,
+    "name": "Aphrodite",
+    "otherNames": ["Venus", "Cythera", "Cytherea"],
+    "description": "Goddess of love and beauty"
+  },
+  {
+    "id": 8,
+    "name": "Hermes",
+    "description": "God of trade, thieves, and messenger of the gods",
+    "otherNames": ["Mercury", "Argeiphontes", "Psychopompos"]
+  },
+  {
+    "id": 9,
+    "name": "Demeter",
+    "description": "Goddess of agriculture and the harvest",
+    "otherNames": ["Ceres", "Thesmophoros", "Sito"]
+  },
+  {
+    "id": 10,
+    "name": "Artemis",
+    "description": "Goddess of the hunt, wilderness, and childbirth",
+    "otherNames": ["Diana", "Phoebe", "Cynthia"]
+  }
+]
